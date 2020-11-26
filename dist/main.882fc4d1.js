@@ -239,4 +239,4 @@ $(document).on('keypress', function (e) {
   }
 });
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=https://quanquan97.github.io/nav/dist/main.882fc4d1.js.map
+//# sourceMappingURL=main.882fc4d1.js.map
